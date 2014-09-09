@@ -1,4 +1,4 @@
 edwise.github.io
 ================
 
-Página de nuestra boda, en construcción :)
+Página de nuestra boda :)
